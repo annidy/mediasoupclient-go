@@ -8,8 +8,9 @@ I ported [libmediasoupclient](https://github.com/versatica/libmediasoupclient) t
 - [x] cam/mic produce
 - [x] file produce
 - [x] consume to file
-- [ ] data channel
+- [x] data channel
 - [ ] getStats
 - [ ] screen share
 - [ ] simulcast
 - [ ] gui
+- [ ] pause/resume stream
