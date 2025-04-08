@@ -10,6 +10,7 @@ I ported [libmediasoupclient](https://github.com/versatica/libmediasoupclient) t
 - [x] consume to file
 - [x] data channel
 - [ ] getStats
+- [ ] ssrc score
 - [ ] screen share
 - [ ] simulcast
 - [ ] gui
